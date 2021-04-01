@@ -1,4 +1,5 @@
 # mlx-raymarcher
+add the resources frome favourite here
 create the mlx dependence
 create the ray marcher
 debug on a sphere
